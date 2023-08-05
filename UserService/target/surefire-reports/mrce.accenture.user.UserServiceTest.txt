@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: mrce.accenture.user.UserServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.320 s -- in mrce.accenture.user.UserServiceTest

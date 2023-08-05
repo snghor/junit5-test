@@ -1,0 +1,9 @@
+mrce/accenture/user/repositories/UserRepository.class
+mrce/accenture/user/repositories/UserRepositoryImpl.class
+mrce/accenture/user/impl/EmailVerificationService.class
+mrce/accenture/user/impl/EmailVerificationServiceImpl.class
+mrce/accenture/user/impl/UserService.class
+mrce/accenture/user/exceptions/UserServiceException.class
+mrce/accenture/user/modal/User.class
+mrce/accenture/user/impl/UserServiceImpl.class
+mrce/accenture/user/exceptions/EmailServiceException.class

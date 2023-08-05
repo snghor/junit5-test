@@ -1,0 +1,9 @@
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/impl/EmailVerificationService.java
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/exceptions/EmailServiceException.java
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/impl/UserService.java
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/impl/EmailVerificationServiceImpl.java
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/impl/UserServiceImpl.java
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/exceptions/UserServiceException.java
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/repositories/UserRepository.java
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/repositories/UserRepositoryImpl.java
+/Users/secy/Documents/learning/java-workspace/spring-junit/UserService/src/main/java/mrce/accenture/user/modal/User.java
